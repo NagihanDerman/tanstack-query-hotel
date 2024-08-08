@@ -27,4 +27,4 @@ In addition to the frontend, a simple backend was created to manage and serve th
 
 ### Gif
 
-<img src=""/>
+<img src="/fronted/public/hotelapp.gif"/>

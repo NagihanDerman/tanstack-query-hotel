@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Hotel Azure",
+    "location": "İstanbul, Turkey",
+    "address": "Bosphorus Caddesi 123",
+    "description": "Bosphorus manzaralı lüks bir otel.",
+    "amenities": ["Free WiFi", "Swimming Pool", "Spa", "Gym", "Restaurant"],
+    "rating": 4.8,
+    "price_per_night": 150,
+    "availability": true,
+    "image_url": "/pic1.jpg"
+  },
+
+  {
+    "id": 2,
+    "name": "Mountain Retreat",
+    "location": "Rize, Turkey",
+    "address": "Highland Yolu 789",
+    "description": "A perfect, peaceful mountain retreat for nature lovers.",
+    "amenities": ["Free WiFi", "Hiking Trails", "Fireplace", "Pet Friendly"],
+    "rating": 4.5,
+    "price_per_night": 120,
+    "availability": true,
+    "image_url": "/pic2.webp"
+  },
+
+  {
+    "id": 3,
+    "name": "City Center Apartment",
+    "location": "Ankara, Turkey",
+    "address": "Capital Bulvarı 456",
+    "description": "A modern apartment in the city center.",
+    "amenities": ["Free WiFi", "Kitchen", "Air Conditioning", "Washer/Dryer"],
+    "rating": 4.2,
+    "price_per_night": 90,
+    "availability": false,
+    "image_url": "/pic3.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Seaside Villa",
+    "location": "Antalya, Turkey",
+    "address": "Plaj Yolu 321",
+    "description": " A beautiful villa with private beach access and stunning sea views.",
+    "amenities": ["Free WiFi", "Private Beach", "Swimming Pool", "BBQ Area"],
+    "rating": 4.9,
+    "price_per_night": 200,
+    "availability": true,
+    "image_url": "/pic4.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Budget Hostel",
+    "location": "İzmir, Turkey",
+    "address": "Budget Sokak 654",
+    "description": "A budget-friendly hostel in the city center, close to all attractions.",
+    "amenities": [
+      "Free WiFi",
+      "Shared Kitchen",
+      "Laundry Facilities",
+      "Common Lounge"
+    ],
+    "rating": 3.8,
+    "price_per_night": 25,
+    "availability": true,
+    "image_url": "/pic5.webp"
+  },
+
+  {
+    "id": 6,
+    "name": "Seaside Villa",
+    "location": "Antalya, Turkey",
+    "address": "Kıyı Caddesi 123",
+    "description": "A luxury beachfront villa with stunning views.",
+    "amenities": ["Free WiFi", "Private Pool", "Sea View", "Air Conditioning"],
+
+    "rating": 4.8,
+    "price_per_night": 250,
+    "availability": true,
+    "image_url": "/pic6.jpg"
+  },
+
+  {
+    "id": 7,
+    "name": "Historic Istanbul Suite",
+    "location": "İstanbul, Turkey",
+    "address": "Tarihi Sokak 456",
+    "description": "A comfortable stay in a historic building in the heart of Istanbul.",
+    "amenities": [
+      "Free WiFi",
+      " Historic Atmosphere",
+      "Central Location",
+      "Breakfast Included"
+    ],
+    "rating": 4.7,
+    "price_per_night": 180,
+    "availability": true,
+    "image_url": "/pic7.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "Bodrum Beach House",
+    "location": "Bodrum, Turkey",
+    "address": "Sahil Yolu 321",
+    "description": "A modern and comfortable home on Bodrum's unique coast.",
+    "amenities": ["Free WiFi", "Beach Access", "BBQ Area", "Family Friendly"],
+    "rating": 4.6,
+    "price_per_night": 200,
+    "availability": true,
+    "image_url": "/pic8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Cappadocia Cave Hotel",
+    "location": "Kapadokya, Turkey",
+    "address": "Mağara Sokak 101",
+    "description": "Spend a night in Cappadocia's unique caves.",
+    "amenities": [
+      "Free WiFi",
+      "Cave Rooms",
+      "Hot Air Balloon Tours",
+      "Traditional Breakfast"
+    ],
+    "rating": 4.9,
+    "price_per_night": 220,
+    "availability": true,
+    "image_url": "/pic9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ephesus Boutique Hotel",
+    "location": "Selçuk, Turkey",
+    "address": "Efes Caddesi 789",
+    "description": "A boutique hotel close to the historic Ephesus ruins.",
+    "amenities": ["Free WiFi", "Historic Atmosphere", "Parking", "Garden"],
+
+    "rating": 4.4,
+    "price_per_night": 150,
+    "availability": true,
+    "image_url": "/pic10.jpg"
+  }
+]

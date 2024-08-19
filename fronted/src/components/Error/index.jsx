@@ -1,10 +1,9 @@
 import { useQueryClient } from "@tanstack/react-query";
 
 const Error = ({ info, queryKey }) => {
-  // kurulum
   const queryClient = useQueryClient();
 
-  // places sorgusunu tekrar çalıştırmaya yarayan fonksiyon
+  // places sorgusunu tekrar çalıştırmaya yarar
   const retry = () => {
     queryClient.invalidateQueries({ queryKey: [queryKey] });
   };

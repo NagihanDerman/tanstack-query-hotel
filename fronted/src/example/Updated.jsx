@@ -5,8 +5,6 @@ import axios from "axios";
 const getQuotes = () => axios.get("https://dummyjson.com/quotes");
 
 const Updated = () => {
-  // get istekleri ile olan sorguları gerçekleştirmemizi sağlar
-  // useQuery yapılan isteğin bütün detaylarını retrun eder
   const { isLoading, error, data } = useQuery({
     queryKey: ["quotes"],
     queryFn: getQuotes,

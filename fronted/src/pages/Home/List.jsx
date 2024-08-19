@@ -6,7 +6,7 @@ import Error from "../../components/Error";
 import { useSearchParams } from "react-router-dom";
 
 const List = () => {
-  // urldeki parametrleri al ve nesne haline getir
+  // urldeki parametrleri alip nesne haline getir
   const [params] = useSearchParams();
   const paramsObj = Object.fromEntries(params.entries());
 
